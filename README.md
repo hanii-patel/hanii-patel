@@ -15,10 +15,10 @@ I focus on designing **end-to-end AI solutions** — not just models, but comple
 
 ## ⚙️ Tech Stack
 **Languages & Core:**  
-Python, SQL, JavaScript  
+Python, SQL, HTML, CSS, JavaScript
 
 **AI / ML:**  
-Scikit-learn, TensorFlow, OpenCV, Deep Learning  
+Scikit-learn, TensorFlow, OpenCV, Deep Learning, Pandas, Numpy
 
 **GenAI:**  
 LangChain, RAG, LLM APIs, Prompt Engineering, ElevenLabs  
