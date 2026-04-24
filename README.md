@@ -3,6 +3,11 @@
 
 I focus on designing **end-to-end AI solutions** — not just models, but complete systems that go from data → inference → deployment → impact.
 
+## 🚀 What I'm Building
+- AI-powered applications using LLMs (LangChain, RAG)
+- End-to-end ML systems (data → model → deployment)
+- Automation workflows integrating AI (n8n + APIs)
+
 ---
 
 ## 🧠 Current Focus
